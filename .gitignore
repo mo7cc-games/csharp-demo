@@ -55,3 +55,4 @@ nunit-*.xml
 
 bin
 obj
+*.sln
